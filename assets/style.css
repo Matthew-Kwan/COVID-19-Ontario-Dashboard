@@ -419,7 +419,7 @@ there.
 @media (min-width: 1200px) {}
 
 #header-text {
-  margin-bottom: 3em;
+  margin-bottom: 0em;
 }
 
 #date-slider {
