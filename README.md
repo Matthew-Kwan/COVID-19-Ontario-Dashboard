@@ -15,6 +15,11 @@ I am using:
 4. In the root directory, run the following in terminal: `python app.py`.
 5. In a browser, navigate to `http://localhost:8050`
 
+## File Structure
+
+- `app.py` contains my `Dash.py` implementation of a dashboard. This file includes the HTML components from Dash, and the data cleaning I performed at the top.
+- `covid_data_exploration.ipynb` contains the majority of the data exploration I performed.
+
 # Additional Notes
 Below I have some notes on different topics regarding this case study. Please give it a read through if you have the chance!
 
