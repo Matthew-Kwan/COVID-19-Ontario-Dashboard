@@ -19,6 +19,9 @@ external_stylesheets = ['./style.css']
 # Define the Dash app
 app = dash.Dash(__name__)
 
+# Define the server
+server = app.server
+
 # IMPORT DATA
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
