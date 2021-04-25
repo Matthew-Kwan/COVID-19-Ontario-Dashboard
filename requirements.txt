@@ -4,33 +4,24 @@ anyio==2.0.2
 appdirs==1.4.4
 argon2-cffi==20.1.0
 asgiref==3.3.1
-astroid @ file:///C:/ci/astroid_1592487315634/work
 async-generator==1.10
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 Babel==2.9.0
 backcall==0.2.0
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1605305165209/work
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
 bcrypt==3.2.0
-beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
 bidict==0.21.2
 bleach==3.2.1
 Brotli==1.0.9
 brotlipy==0.7.0
 certifi==2020.11.8
 certipy==0.1.3
-cffi @ file:///C:/ci/cffi_1606255208697/work
 chardet==3.0.4
-click @ file:///home/linux1/recipes/ci/click_1610990599742/work
 clyent==1.2.2
 colorama==0.4.4
 colorlover==0.3.0
 conda==4.9.2
 conda-build==3.18.11
-conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
 conda-verify==3.4.2
-cryptography @ file:///C:/ci/cryptography_1607637849569/work
 cvxpy==1.1.11
 cycler==0.10.0
 dash==1.20.0
@@ -49,7 +40,6 @@ django-rest-framework==0.1.0
 djangorestframework==3.12.2
 ecos==2.0.7.post1
 entrypoints==0.3
-filelock @ file:///home/linux1/recipes/ci/filelock_1610993975404/work
 Flask==1.1.2
 Flask-Bcrypt==0.7.1
 Flask-Compress==1.9.0
@@ -60,22 +50,18 @@ Flask-SocketIO==4.3.2
 Flask-SQLAlchemy==2.4.4
 Flask-Testing==0.8.0
 future==0.18.2
-glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gunicorn==20.0.4
 h5py==3.2.1
 idna==2.10
 imageio==2.9.0
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
 ipykernel==5.3.4
 ipyparallel==6.3.0
 ipython==7.19.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 iso8601==0.1.12
-isort @ file:///tmp/build/80754af9/isort_1612243941122/work
 itsdangerous==1.1.0
 jedi==0.17.2
-Jinja2 @ file:///home/linux1/recipes/ci/jinja2_1610990516718/work
 joblib==1.0.0
 json5==0.9.5
 jsonschema==3.2.0
@@ -89,8 +75,6 @@ jupyterlab-pygments==0.1.2
 jupyterlab-server==2.1.3
 jupyterlab-widgets==1.0.0
 kiwisolver==1.3.1
-lazy-object-proxy @ file:///C:/b/work
-libarchive-c @ file:///home/linux1/recipes/ci/python-libarchive-c_1610974153025/work
 Mako==1.1.3
 MarkupSafe==1.1.1
 matplotlib==3.4.0rc3
@@ -117,30 +101,24 @@ pandoc==1.0.2
 pandocfilters==1.4.3
 parso==0.7.1
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1609786840597/work
 pkginfo==1.7.0
 plotly==4.13.0
 ply==3.11
 prometheus-client==0.9.0
 prompt-toolkit==3.0.8
-psutil @ file:///C:/ci/psutil_1598370330503/work
 psycopg2==2.8.4
 pycosat==0.6.3
 pycparser==2.20
 Pygments==2.7.2
 PyJWT==1.7.1
-pylint @ file:///C:/ci/pylint_1598617153160/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 pyparsing==2.4.7
 pyrsistent==0.17.3
-PySocks @ file:///C:/ci/pysocks_1605287845585/work
 python-dateutil==2.8.1
 python-dotenv==0.12.0
 python-editor==1.0.4
 python-engineio==3.14.2
 python-json-logger==2.0.1
 python-socketio==4.6.1
-pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
 PyWavelets==1.1.1
 pywin32==300
 pywinpty==0.5.7
@@ -158,10 +136,8 @@ scs==2.1.2
 searchfair==0.0.1
 Send2Trash==1.5.0
 sip==4.19.13
-six @ file:///C:/ci/six_1605187374963/work
 sklearn==0.0
 sniffio==1.2.0
-soupsieve @ file:///tmp/build/80754af9/soupsieve_1607965878077/work
 SQLAlchemy==1.3.23
 sqlparse==0.4.1
 terminado==0.9.1
@@ -169,9 +145,7 @@ testpath==0.4.4
 textblob==0.15.3
 threadpoolctl==2.1.0
 tifffile==2021.4.8
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 tornado==6.1
-tqdm @ file:///tmp/build/80754af9/tqdm_1611857934208/work
 traitlets==5.0.5
 urllib3==1.26.2
 virtualenv==20.2.2
@@ -179,8 +153,6 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
 wincertstore==0.2
 wrapt==1.11.2
 xmltodict==0.12.0
-zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
